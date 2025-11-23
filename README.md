@@ -3,15 +3,13 @@
   <img src="https://drive.google.com/uc?export=view&id=1mC0sUjLELla1uPsLprdRxG97Kj9U2z-j" width="100%" alt="banner"/>
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff6b00&width=500&lines=Front-End+Developer" alt="Typing SVG"/>
-</p>
+</div>
 
 <p align="center">
-  <strong style="color:#ff6b00;">Front-End Developer</strong>  
-  <br>
   I build modern, responsive, UI-friendly applications using  
-  <strong>React, Next.js & React Native</strong>
+  <strong> Next.js, React & React Native</strong>
 </p>
 
 ---
@@ -43,29 +41,23 @@
 ## 🔥 Projects  
 
 ### My Portfolio
-
 Personal responsive portfolio built with React + SCSS.
+[![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://my-portfolio-mocha-zeta-58.vercel.app/) 
+[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/my-portfolio) 
 
-[![LIVE DEMO](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=for-the-badge&logo=vercel&labelColor=ff6b00&animation=glitch)](https://my-portfolio-mocha-zeta-58.vercel.app/)
-[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=for-the-badge&logo=github&labelColor=0d0d0d&color=ff6b00&animation=glitch)](https://github.com/katrin-troyan/my-portfolio)
-
----
+--- 
 
 ### Simply Chocolate
-
-Adaptive landing page with animations, modals and burger menu.
-
-[![LIVE DEMO](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=for-the-badge&logo=vercel&labelColor=ff6b00&animation=glitch)](https://katrin-troyan.github.io/simply-chocolate-project/)
-[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=for-the-badge&logo=github&labelColor=0d0d0d&color=ff6b00&animation=glitch)](https://github.com/katrin-troyan/simply-chocolate-project)
+Adaptive landing page with animations, modals and burger menu. 
+[![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://katrin-troyan.github.io/simply-chocolate-project/) 
+[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/simply-chocolate-project) 
 
 ---
 
-### KinoClick
-
-React app with external API integration for movie search.
-
-[![LIVE DEMO](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=for-the-badge&logo=vercel&labelColor=ff6b00&animation=glitch)](https://movie-search-five-opal.vercel.app/)
-[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=for-the-badge&logo=github&labelColor=0d0d0d&color=ff6b00&animation=glitch)](https://github.com/katrin-troyan/MOVIE-SEARCH)
+### KinoClick React
+app with external API integration for movie search. 
+[![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://movie-search-five-opal.vercel.app/) 
+[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/MOVIE-SEARCH)
 
 ---
 
