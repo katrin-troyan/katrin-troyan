@@ -1,8 +1,6 @@
-## 🌟 Hi, I'm Kateryna Troyan
-
 <!-- 🔥 Animated banner -->
 <p align="center">
-  <img src="https://i.imgur.com/g7V5yDh.gif" width="100%" alt="banner"/>
+  <img src="https://drive.google.com/file/d/1QOoLIfbCRVq0oEDg02YJDqUHwmFkjLSS/view?usp=drive_link" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center" style="color:#ff6b00; font-weight:700;">
