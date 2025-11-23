@@ -4,7 +4,9 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff6b00&width=500&lines=Front-End+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff6b00&width=500&lines=Front-End+Developer" 
+     alt="Typing SVG" 
+     style="display:block; margin-left:auto; margin-right:auto;" />
 </div>
 
 <p align="center">
@@ -42,6 +44,7 @@
 
 ### My Portfolio
 Personal responsive portfolio built with React + SCSS.
+
 [![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://my-portfolio-mocha-zeta-58.vercel.app/) 
 [![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/my-portfolio) 
 
@@ -49,6 +52,7 @@ Personal responsive portfolio built with React + SCSS.
 
 ### Simply Chocolate
 Adaptive landing page with animations, modals and burger menu. 
+
 [![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://katrin-troyan.github.io/simply-chocolate-project/) 
 [![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/simply-chocolate-project) 
 
@@ -56,6 +60,7 @@ Adaptive landing page with animations, modals and burger menu.
 
 ### KinoClick React
 app with external API integration for movie search. 
+
 [![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://movie-search-five-opal.vercel.app/) 
 [![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/MOVIE-SEARCH)
 
@@ -81,8 +86,6 @@ English — Pre-Intermediate
 
 ##  🔥 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katrin-troyan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff6b00" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=katrin-troyan&show_icons=true&theme=dark&title_color=ff6b00&icon_color=ff6b00&text_color=ffffff&bg_color=0d0d0d&border_color=ff6b00" alt="GitHub Stats" />
