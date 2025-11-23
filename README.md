@@ -66,8 +66,8 @@ React app with external API integration for movie search.
 
 
 ## Languages  
-🇺🇦 Ukrainian — Native  
-🇬🇧 English — Pre-Intermediate  
+Ukrainian — Native  
+English — Pre-Intermediate  
 
 ---
 
