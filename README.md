@@ -31,17 +31,7 @@
 
 ## Tech Stack  
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-ff6b00?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0d0d&color=ff6b00"/>
-  <img src="https://img.shields.io/badge/CSS3-ff6b00?style=for-the-badge&logo=css3&logoColor=ff6b00&labelColor=0d0d0d&color=0d0d0d"/>
-  <img src="https://img.shields.io/badge/SASS-ff6b00?style=for-the-badge&logo=sass&logoColor=white&labelColor=0d0d0d&color=ff6b00"/>
-  <img src="https://img.shields.io/badge/JavaScript-ff6b00?style=for-the-badge&logo=javascript&logoColor=ff6b00&labelColor=0d0d0d&color=0d0d0d"/>
-  <img src="https://img.shields.io/badge/React-ff6b00?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d&color=ff6b00"/>
-  <img src="https://img.shields.io/badge/Next.js-ff6b00?style=for-the-badge&logo=nextdotjs&logoColor=ff6b00&labelColor=0d0d0d&color=0d0d0d"/>
-  <img src="https://img.shields.io/badge/React_Native-ff6b00?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d&color=ff6b00"/>
-  <img src="https://img.shields.io/badge/Vite-ff6b00?style=for-the-badge&logo=vite&logoColor=ff6b00&labelColor=0d0d0d&color=0d0d0d"/>
-  <img src="https://img.shields.io/badge/Git-ff6b00?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d&color=ff6b00"/>
-</p>
+<p> <img src="https://img.shields.io/badge/HTML5-ff6b00?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=ff6b00"/> <img src="https://img.shields.io/badge/SASS-ff6b00?style=for-the-badge&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff6b00"/> <img src="https://img.shields.io/badge/React-ff6b00?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=ff6b00"/> <img src="https://img.shields.io/badge/React_Native-ff6b00?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge&logo=vite&logoColor=ff6b00"/> <img src="https://img.shields.io/badge/Git-ff6b00?style=for-the-badge&logo=git&logoColor=white"/> </p>
 
 
 ---
