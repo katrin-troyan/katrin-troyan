@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff6b00&lines=Front-End+Developer" alt="Typing SVG"/>
 </p>
 
-
 <p align="center">
   I build modern, responsive, UI-friendly applications using  
   <strong> Next.js, React & React Native</strong>
