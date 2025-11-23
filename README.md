@@ -86,7 +86,6 @@ English — Pre-Intermediate
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=katrin-troyan&show_icons=true&theme=dark&title_color=ff6b00&icon_color=ff6b00&text_color=ffffff&bg_color=0d0d0d"/>
- <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katrin-troyan&layout=compact&theme=dark&title_color=ff6b00&text_color=ffffff&bg_color=0d0d0d"/>
 </p>
 
