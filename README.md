@@ -1,6 +1,6 @@
 <!-- 🔥 Animated banner -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1QOoLIfbCRVq0oEDg02YJDqUHwmFkjLSS" width="100%" alt="banner"/>
+  <img src="https://drive.google.com/uc?export=view&id=1ESUNL-U0q5aNoXm08TpC2KAstTDJb92f" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center" style="color:#ff6b00; font-weight:700;">
