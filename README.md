@@ -14,21 +14,13 @@
 
 ## About Me  
 
-<p>
-  <img src="https://img.shields.io/badge/✔-ff6b00?style=for-the-badge&logoColor=ff6b00&labelColor=0d0d0d" width="24"/> I focus on clean architecture, reusable UI components and smooth user experience.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/✔-ff6b00?style=for-the-badge&logoColor=ff6b00&labelColor=0d0d0d" width="24"/> I enjoy simplifying complex things and turning them into intuitive interfaces.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/✔-ff6b00?style=for-the-badge&logoColor=ff6b00&labelColor=0d0d0d" width="24"/> I collaborate comfortably in teams and handle individual projects confidently.
-</p>
+<p><span style="color:#ff6b00;">✔</span> I focus on clean architecture, reusable UI components and smooth user experience.</p>
+<p><span style="color:#ff6b00;">✔</span> I enjoy simplifying complex things and turning them into intuitive interfaces.</p>
+<p><span style="color:#ff6b00;">✔</span> I collaborate comfortably in teams and handle individual projects confidently.</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-ff6b00?style=for-the-badge&logo=html5&logoColor=white"/>
