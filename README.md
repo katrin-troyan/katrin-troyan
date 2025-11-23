@@ -1,6 +1,6 @@
 <!-- 🔥 Animated banner -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1ESUNL-U0q5aNoXm08TpC2KAstTDJb92f" width="100%" alt="banner"/>
+  <img src="https://drive.google.com/uc?export=view&id=1mC0sUjLELla1uPsLprdRxG97Kj9U2z-j" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center" style="color:#ff6b00; font-weight:700;">
@@ -80,10 +80,10 @@ Personal responsive portfolio built with React + SCSS.
 ## 📫 Contact Me  
 
 <p>
- <a href="https://www.linkedin.com/in/kateryna-troyan-b21328356"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff6b00"/></a>
- <a href="https://github.com/katrin-troyan"><img src="https://img.shields.io/badge/GitHub-ff6b00?style=for-the-badge&logo=github&logoColor=white"/></a>
- <a href="https://t.me/Katrin_tro"><img src="https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=ff6b00"/></a>
- <a href="mailto:katerynatroyan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-ff6b00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/kateryna-troyan-b21328356" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff6b00"/></a>
+ <a href="https://github.com/katrin-troyan" target="_blank"><img src="https://img.shields.io/badge/GitHub-ff6b00?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://t.me/Katrin_tro" target="_blank"><img src="https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=ff6b00"/></a>
+ <a href="mailto:katerynatroyan.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ff6b00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
