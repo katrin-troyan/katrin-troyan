@@ -78,12 +78,3 @@ English — Pre-Intermediate
  <a href="https://t.me/Katrin_tro" target="_blank"><img src="https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=ff6b00"/></a>
  <a href="mailto:katerynatroyan.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ff6b00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-##  🔥 GitHub Stats  
-
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katrin-troyan&layout=compact&theme=dark&title_color=ff6b00&text_color=ffffff&bg_color=0d0d0d&border_color=ff6b00" alt="Top Languages" />
-</p>
