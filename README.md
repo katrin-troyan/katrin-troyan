@@ -15,15 +15,15 @@
 ## About Me  
 
 <p>
-  <img src="https://img.shields.io/badge/✔-ff6b00?style=flat&logoColor=ff6b00" width="20"/> I focus on clean architecture, reusable UI components and smooth user experience.
+  <img src="https://img.shields.io/badge/✔-ff6b00?style=flat&logoColor=ff6b00" width="16"/> I focus on clean architecture, reusable UI components and smooth user experience.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/✔-ff6b00?style=flat&logoColor=ff6b00" width="20"/> I enjoy simplifying complex things and turning them into intuitive interfaces.
+  <img src="https://img.shields.io/badge/✔-ff6b00?style=flat&logoColor=ff6b00" width="16"/> I enjoy simplifying complex things and turning them into intuitive interfaces.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/✔-ff6b00?style=flat&logoColor=ff6b00" width="20"/> I collaborate comfortably in teams and handle individual projects confidently.
+  <img src="https://img.shields.io/badge/✔-ff6b00?style=flat&logoColor=ff6b00" width="16"/> I collaborate comfortably in teams and handle individual projects confidently.
 </p>
 
 
@@ -32,16 +32,17 @@
 ## Tech Stack  
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-ff6b00?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=ff6b00"/>
-  <img src="https://img.shields.io/badge/SASS-ff6b00?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff6b00"/>
-  <img src="https://img.shields.io/badge/React-ff6b00?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=ff6b00"/>
-  <img src="https://img.shields.io/badge/React_Native-ff6b00?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge&logo=vite&logoColor=ff6b00"/>
-  <img src="https://img.shields.io/badge/Git-ff6b00?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-ff6b00?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0d0d&color=ff6b00"/>
+  <img src="https://img.shields.io/badge/CSS3-ff6b00?style=for-the-badge&logo=css3&logoColor=ff6b00&labelColor=0d0d0d&color=0d0d0d"/>
+  <img src="https://img.shields.io/badge/SASS-ff6b00?style=for-the-badge&logo=sass&logoColor=white&labelColor=0d0d0d&color=ff6b00"/>
+  <img src="https://img.shields.io/badge/JavaScript-ff6b00?style=for-the-badge&logo=javascript&logoColor=ff6b00&labelColor=0d0d0d&color=0d0d0d"/>
+  <img src="https://img.shields.io/badge/React-ff6b00?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d&color=ff6b00"/>
+  <img src="https://img.shields.io/badge/Next.js-ff6b00?style=for-the-badge&logo=nextdotjs&logoColor=ff6b00&labelColor=0d0d0d&color=0d0d0d"/>
+  <img src="https://img.shields.io/badge/React_Native-ff6b00?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d&color=ff6b00"/>
+  <img src="https://img.shields.io/badge/Vite-ff6b00?style=for-the-badge&logo=vite&logoColor=ff6b00&labelColor=0d0d0d&color=0d0d0d"/>
+  <img src="https://img.shields.io/badge/Git-ff6b00?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d&color=ff6b00"/>
 </p>
+
 
 ---
 
