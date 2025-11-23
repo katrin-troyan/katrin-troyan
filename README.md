@@ -43,20 +43,24 @@
 Personal responsive portfolio built with React + SCSS.
 
 [![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://my-portfolio-mocha-zeta-58.vercel.app/)
-[![Code](https://img.shields.io/badge/GitHub%20Code-View-2ea44f?style=flat&logo=github)](https://github.com/katrin-troyan/my-portfolio)
+[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/my-portfolio)
 
 ---
-### Simply Chocolate 
-Adaptive landing page with animations, modals and burger menu. 
-🔗 Demo: https://katrin-troyan.github.io/simply-chocolate-project/ 
-🔗 Code: https://github.com/katrin-troyan/simply-chocolate-project
+### Simply Chocolate
+
+Adaptive landing page with animations, modals and burger menu.
+
+[![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://katrin-troyan.github.io/simply-chocolate-project/)
+[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/simply-chocolate-project)
 
 ---
 
-### KinoClick  
-React app with external API integration for movie search.  
-🔗 Demo: https://movie-search-five-opal.vercel.app/  
-🔗 Code: https://github.com/katrin-troyan/MOVIE-SEARCH  
+### KinoClick
+
+React app with external API integration for movie search.
+
+[![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://movie-search-five-opal.vercel.app/)
+[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/MOVIE-SEARCH)
 
 ---
 
