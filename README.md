@@ -14,9 +14,18 @@
 
 ## About Me  
 
-<p><span style="color:#ff6b00;">✔</span> I focus on clean architecture, reusable UI components and smooth user experience.</p>
-<p><span style="color:#ff6b00;">✔</span> I enjoy simplifying complex things and turning them into intuitive interfaces.</p>
-<p><span style="color:#ff6b00;">✔</span> I collaborate comfortably in teams and handle individual projects confidently.</p>
+<p>
+  <img src="https://img.shields.io/badge/✔-ff6b00?style=flat&logoColor=ff6b00" width="20"/> I focus on clean architecture, reusable UI components and smooth user experience.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/✔-ff6b00?style=flat&logoColor=ff6b00" width="20"/> I enjoy simplifying complex things and turning them into intuitive interfaces.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/✔-ff6b00?style=flat&logoColor=ff6b00" width="20"/> I collaborate comfortably in teams and handle individual projects confidently.
+</p>
+
 
 ---
 
