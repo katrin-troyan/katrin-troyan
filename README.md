@@ -90,6 +90,6 @@ English — Pre-Intermediate
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=katrin-troyan&theme=github-dark&hide_border=true&area=true&color=ff6b00" alt="GitHub Activity Graph" />
+  ![GitHub Contributions](https://github.com/katrin-troyan/github-contributions.svg)
 </p>
 
