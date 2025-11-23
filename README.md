@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff6b00&width=500&lines=Front-End+Developer;React+%26+Next.js+Lover;UI+%26+UX+Enthusiast" alt="Typing SVG"/>
+</p>
+
+<p align="center">
   <strong style="color:#ff6b00;">Front-End Developer</strong>  
   <br>
   I build modern, responsive, UI-friendly applications using  
@@ -12,7 +16,7 @@
 
 ---
 
-## About Me  
+## 🔥 About Me  
 
 <p>
   <img src="https://img.shields.io/badge/✔-ff6b00?style=flat&logoColor=ff6b00" width="16"/> I focus on clean architecture, reusable UI components and smooth user experience.
@@ -29,29 +33,30 @@
 
 ---
 
-## Tech Stack  
+## 🔥 Tech Stack  
 
 <p> <img src="https://img.shields.io/badge/HTML5-ff6b00?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=ff6b00"/> <img src="https://img.shields.io/badge/SASS-ff6b00?style=for-the-badge&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff6b00"/> <img src="https://img.shields.io/badge/React-ff6b00?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=ff6b00"/> <img src="https://img.shields.io/badge/React_Native-ff6b00?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge&logo=vite&logoColor=ff6b00"/> <img src="https://img.shields.io/badge/Git-ff6b00?style=for-the-badge&logo=git&logoColor=white"/> </p>
 
 
 ---
 
-## Projects  
+## 🔥 Projects  
 
 ### My Portfolio
 
 Personal responsive portfolio built with React + SCSS.
 
-[![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://my-portfolio-mocha-zeta-58.vercel.app/)
-[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/my-portfolio)
+[![LIVE DEMO](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=for-the-badge&logo=vercel&labelColor=ff6b00&animation=glitch)](https://my-portfolio-mocha-zeta-58.vercel.app/)
+[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=for-the-badge&logo=github&labelColor=0d0d0d&color=ff6b00&animation=glitch)](https://github.com/katrin-troyan/my-portfolio)
 
 ---
+
 ### Simply Chocolate
 
 Adaptive landing page with animations, modals and burger menu.
 
-[![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://katrin-troyan.github.io/simply-chocolate-project/)
-[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/simply-chocolate-project)
+[![LIVE DEMO](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=for-the-badge&logo=vercel&labelColor=ff6b00&animation=glitch)](https://katrin-troyan.github.io/simply-chocolate-project/)
+[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=for-the-badge&logo=github&labelColor=0d0d0d&color=ff6b00&animation=glitch)](https://github.com/katrin-troyan/simply-chocolate-project)
 
 ---
 
@@ -59,19 +64,19 @@ Adaptive landing page with animations, modals and burger menu.
 
 React app with external API integration for movie search.
 
-[![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://movie-search-five-opal.vercel.app/)
-[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/MOVIE-SEARCH)
+[![LIVE DEMO](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=for-the-badge&logo=vercel&labelColor=ff6b00&animation=glitch)](https://movie-search-five-opal.vercel.app/)
+[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=for-the-badge&logo=github&labelColor=0d0d0d&color=ff6b00&animation=glitch)](https://github.com/katrin-troyan/MOVIE-SEARCH)
 
 ---
 
 
-## Languages  
+## 🔥 Languages  
 Ukrainian — Native  
 English — Pre-Intermediate  
 
 ---
 
-## Contact Me  
+## 🔥 Contact Me  
 
 <p>
  <a href="https://www.linkedin.com/in/kateryna-troyan-b21328356" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff6b00"/></a>
@@ -82,14 +87,12 @@ English — Pre-Intermediate
 
 ---
 
-##  GitHub Stats  
+##  🔥 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katrin-troyan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff6b00" alt="GitHub Streak"/>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=katrin-troyan&show_icons=true&theme=dark&title_color=ff6b00&icon_color=ff6b00&text_color=ffffff&bg_color=0d0d0d&border_color=ff6b00" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katrin-troyan&layout=compact&theme=dark&title_color=ff6b00&text_color=ffffff&bg_color=0d0d0d&border_color=ff6b00" alt="Top Languages" />
 </p>
-
-<p align="center">
-  ![GitHub Contributions](https://github.com/katrin-troyan/github-contributions.svg)
-</p>
-
