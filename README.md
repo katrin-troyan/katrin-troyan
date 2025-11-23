@@ -3,11 +3,10 @@
   <img src="https://drive.google.com/uc?export=view&id=1mC0sUjLELla1uPsLprdRxG97Kj9U2z-j" width="100%" alt="banner"/>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff6b00&width=500&lines=Front-End+Developer" 
-     alt="Typing SVG" 
-     style="display:block; margin-left:auto; margin-right:auto;" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff6b00&lines=Front-End+Developer" alt="Typing SVG"/>
+</p>
+
 
 <p align="center">
   I build modern, responsive, UI-friendly applications using  
