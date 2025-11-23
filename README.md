@@ -3,10 +3,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1mC0sUjLELla1uPsLprdRxG97Kj9U2z-j" width="100%" alt="banner"/>
 </p>
 
-<h1 align="center" style="color:#ff6b00; font-weight:700;">
-  🌟 Hi, I'm <span style="color:#ffffff;">Kateryna Troyan</span>
-</h1>
-
 <p align="center">
   <strong style="color:#ff6b00;">Front-End Developer</strong>  
   <br>
@@ -16,11 +12,19 @@
 
 ---
 
-## 🧡 About Me  
+## About Me  
 
-🚀 I focus on clean architecture, reusable UI components and smooth user experience.  
-🧠 I enjoy simplifying complex things and turning them into intuitive interfaces.  
-🤝 I collaborate comfortably in teams and handle individual projects confidently.  
+<p>
+  <img src="https://img.shields.io/badge/✔-ff6b00?style=for-the-badge&logoColor=ff6b00&labelColor=0d0d0d" width="24"/> I focus on clean architecture, reusable UI components and smooth user experience.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/✔-ff6b00?style=for-the-badge&logoColor=ff6b00&labelColor=0d0d0d" width="24"/> I enjoy simplifying complex things and turning them into intuitive interfaces.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/✔-ff6b00?style=for-the-badge&logoColor=ff6b00&labelColor=0d0d0d" width="24"/> I collaborate comfortably in teams and handle individual projects confidently.
+</p>
 
 ---
 
