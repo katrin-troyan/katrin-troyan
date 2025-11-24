@@ -56,13 +56,20 @@ Adaptive landing page with animations, modals and burger menu.
 ---
 
 ### KinoClick React
-app with external API integration for movie search. 
+App with external API integration for movie search. 
 
 [![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://movie-search-five-opal.vercel.app/) 
 [![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/MOVIE-SEARCH)
 
 ---
 
+### Recipe App
+Fullstack web application for searching, viewing, creating and saving favorite recipes.
+
+[![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](project-recipes-front.vercel.app) 
+[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/Vitavanika/project-RecipesFront)
+
+---
 
 ## 🔥 Languages  
 Ukrainian — Native  
