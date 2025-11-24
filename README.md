@@ -66,7 +66,7 @@ App with external API integration for movie search.
 ### Recipe App
 Fullstack web application for searching, viewing, creating and saving favorite recipes.
 
-[![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](project-recipes-front.vercel.app) 
+[![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://project-recipes-front.vercel.app/) 
 [![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/Vitavanika/project-RecipesFront)
 
 ---
