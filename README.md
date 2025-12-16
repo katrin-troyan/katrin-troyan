@@ -63,11 +63,10 @@ App with external API integration for movie search.
 
 ---
 
-### Recipe App
-Fullstack web application for searching, viewing, creating and saving favorite recipes.
+### VocabBuilder
+Mobile app for learning vocabulary with flashcards and quizzes. 
 
-[![Demo](https://img.shields.io/badge/LIVE%20DEMO-Go-orange?style=flat&logo=vercel)](https://project-recipes-front.vercel.app/) 
-[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/Vitavanika/project-RecipesFront)
+[![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/kateryna-troyan/VocabBuilder)
 
 ---
 
