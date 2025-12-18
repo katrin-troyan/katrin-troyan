@@ -66,6 +66,7 @@ App with external API integration for movie search.
 ### VocabBuilder
 Mobile app for learning vocabulary with flashcards and quizzes, built with **React Native**
 
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=flat&logo=android)](https://expo.dev/artifacts/eas/x3RjPzDnwP9mArC56Xq4kW.apk)
 [![Code](https://img.shields.io/badge/GitHub%20Code-View-orange?style=flat&logo=github)](https://github.com/katrin-troyan/VocabBuilder)
 
 ---
